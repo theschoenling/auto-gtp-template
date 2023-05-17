@@ -1,5 +1,9 @@
 # Setting up Auto-GPT
 
+
+# Just run ./run.sh
+
+
 ## 📋 Requirements
 
 Choose an environment to run Auto-GPT in (pick one):
