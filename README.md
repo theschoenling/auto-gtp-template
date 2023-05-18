@@ -2,8 +2,8 @@
 
 
 ## Just run 
-./run.sh
-add to your **.env** file your openai key
+./run.sh  
+add to your **.env** file your openai key  
 
 
 ## 📋 Requirements
