@@ -1,9 +1,10 @@
 # Setting up Auto-GPT
 
 ## Just run 
-- cp .env.example .env
+
+- ```cp .env.example .env```
 - add to your **.env** file your openai key  
-- docker-compose run --rm auto-gpt --gpt3only --continuous
+- ```docker-compose run --rm auto-gpt --gpt3only --continuous``` 
 
 ## 📋 Requirements
 
