@@ -1,7 +1,9 @@
 # Setting up Auto-GPT
 
 
-## Just run ./run.sh
+## Just run 
+./run.sh
+add to your **.env** file your openai key
 
 
 ## 📋 Requirements
