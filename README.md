@@ -1,7 +1,7 @@
 # Setting up Auto-GPT
 
 This template is configured and made for docker containers, everytime autogtp crashed and needs to restart we wipe the redis.
-You can set the config in the .env file.
+You can set the config in the .env file.    
 ```WIPE_REDIS_ON_START=False``` 
 
 ## Just run 
