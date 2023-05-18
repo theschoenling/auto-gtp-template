@@ -1,7 +1,7 @@
 # Setting up Auto-GPT
 
 
-# Just run ./run.sh
+## Just run ./run.sh
 
 
 ## 📋 Requirements
